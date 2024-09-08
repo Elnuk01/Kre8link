@@ -37,6 +37,9 @@ File Name: responsive.css
     ul.social_icon li a i {
         font-size: 16px;
     }
+    .popup {
+        margin-left: 500px;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -101,7 +104,11 @@ File Name: responsive.css
     ul.social_icon {
         padding-top: 15px;
     }
+    .popup {
+        margin-left: 200px;
+    }
 }
+
 
 @media (min-width: 576px) and (max-width: 767px) {
     .header {
@@ -481,8 +488,8 @@ File Name: responsive.css
     .d_none {
         display: none;
     }
+    .popup {
+        margin-left: 90px;
+    }
 }
 
-.popup {
-    margin-left: 90px;
-}
