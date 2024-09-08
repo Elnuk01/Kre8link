@@ -482,3 +482,7 @@ File Name: responsive.css
         display: none;
     }
 }
+
+.popup {
+    margin-left: 90px;
+}
